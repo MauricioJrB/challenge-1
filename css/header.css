@@ -1,0 +1,43 @@
+.logo {
+    font-family: "Poppins-Bold";
+    font-size: 29px;
+    margin-left:47px;
+}
+
+.container-header {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row nowrap;
+    margin-top: 40px;
+}
+
+.menu {
+    font-size: 16px;
+    font-family: "Poppins-Regular";
+    text-align: center;
+}
+
+.menu, a {
+    color: #FFFFFF;
+    flex-flow: row wrap;
+    text-decoration: none;
+    margin-right: 18px;
+    margin-left: 70px;
+}
+
+.btn-contact-us {
+    background-color: #FA9021;
+    color: #FFFFFF;
+    border-radius: 5px;
+    font-size: 13px;
+    display: inline-block;
+    padding: 10px 31px;
+    margin-right: 30px;
+    margin-left: 17px;
+    text-shadow: 
+        -1px -1px 0px #000000, 
+        -1px 1px 0px #000000,                    
+        1px -1px 0px #000000,                  
+        1px 0px 0px #000000;
+}
+
