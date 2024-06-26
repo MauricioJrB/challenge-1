@@ -8,7 +8,7 @@
 #logo {
     font-family: "Poppins-Bold";
     font-size: 29px;
-    margin-left: 46px;
+    margin-left: 35px;
     text-decoration: none;
     color: #FFFFFF;
 }
@@ -25,7 +25,7 @@
     color: #FFFFFF;
     flex-flow: row wrap;
     text-decoration: none;
-    margin-left: 94px;
+    margin-left: 92px;
 }
 
 #btn-contact-us {
@@ -33,11 +33,11 @@
     color: #FFFFFF;
     border-radius: 5px;
     font-size: 13px;
-    display: inline-block;
     padding: 12px 30px;
     text-decoration: none;
+    align-items: center;
     margin-left: 37px;
-    margin-right: 35px;
+    margin-right: 32px;
     text-shadow: 
         -1px -1px 0px #000000, 
         -1px 1px 0px #000000,                    
@@ -48,5 +48,5 @@
 #retangle-element {
     display: block;
     margin-top: -10px;
-    margin-left: 120px;
+    margin-left: 114px; 
 }
