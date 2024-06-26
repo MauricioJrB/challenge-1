@@ -5,7 +5,7 @@
     margin-top: 40px;
 }
 
-.logo {
+#logo {
     font-family: "Poppins-Bold";
     font-size: 29px;
     margin-left: 48px;
@@ -13,7 +13,7 @@
     color: #FFFFFF;
 }
 
-.menu {
+#menu {
     font-size: 16px;
     font-family: "Poppins-Regular";
     text-align: center;
@@ -21,14 +21,14 @@
     list-style: none;
 }
 
-.home, .about-us, .portfolio, .news {
+#home, #about-us, #portfolio, #news {
     color: #FFFFFF;
     flex-flow: row wrap;
     text-decoration: none;
     margin-left: 90px;
 }
 
-.btn-contact-us {
+#btn-contact-us {
     background-color: #FA9021;
     color: #FFFFFF;
     border-radius: 5px;
@@ -45,7 +45,7 @@
         1px 0px 0px #000000;
 }
 
-.retangle-element {
+#retangle-element {
     display: block;
     margin-left: 115px;
 }
