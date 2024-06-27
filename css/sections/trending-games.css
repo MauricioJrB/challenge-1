@@ -1,0 +1,28 @@
+.container-trending-games {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-flow: row wrap;
+    margin-top: 132px;
+}
+
+.container-trending-games h1 {
+    font-family: "Rubik-Bold";
+    font-size: 31px;
+    color: #FFFFFF;
+    margin-left: -150px;
+}
+
+.container-trending-games a {
+    font-family: "Rubik-Medium";
+    font-size: 20px;
+    text-decoration: none;
+    color: #FFFFFF;
+    text-align: center;
+    background-color: #5444a0fa;
+    padding: 17px 29px;
+    border-radius: 8px;
+    margin-right: -180px;
+}
+
+

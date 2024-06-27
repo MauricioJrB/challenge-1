@@ -1,0 +1,59 @@
+.container-section-joy-stick {
+    display: flex;
+    flex-direction: column;
+    margin-top: 96px;
+    padding-left: 129px;
+}
+
+#pharagraph-1 {
+    font-family: "Poppins-Bold";
+    font-size: 20px;
+    color: #E87D0E;
+    text-shadow: 
+        -1px -1px 0px #000000, 
+        -1px 1px 0px #000000,                    
+        1px -1px 0px #000000,                  
+        1px 0px 0px #000000;
+}
+
+#title {
+    font-family: "Poppins-Bold";
+    font-size: 50px;
+    color: #FFFFFF;
+    margin-top: 0;
+}
+
+#pharagraph-2 {
+    font-family: "Poppins-Medium";
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: -9px;
+}
+
+#btn-more-details {
+    font-family: "Poppins-Medium";
+    background-color: #FA9021;
+    color: #FFFFFF;
+    border-radius: 30px;
+    padding-top: 15px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+    height: 38px;
+    margin-top: 40px;
+}
+
+#joy-stick {
+    position: absolute;
+    top: 0; 
+    margin: 0px 580px;
+    z-index: -1;
+}
+
+#engines {
+    position: absolute;
+    top: 200px;
+    margin-left: 460px;
+}
+
