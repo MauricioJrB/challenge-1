@@ -28,6 +28,11 @@
     src: url(../fonts/Rubik/Rubik-Medium.ttf);
 }
 
+@font-face {
+    font-family: "Poppins-SemiBold";
+    src: url(../fonts/Poppins/Poppins-SemiBold.ttf);
+}
+
 body {
     background: linear-gradient(0deg, #39289F 80%, #422F9C 150%);
 }

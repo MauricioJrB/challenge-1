@@ -1,0 +1,45 @@
+.container-top-spiderman {
+    display: flex;
+    flex-flow: column wrap;
+    margin-top: 133px;
+}
+
+.container-top-spiderman h1, h2 {
+    font-family: "Poppins-SemiBold";
+    font-size: 35px;
+    color: #FFFFFF;
+    text-align: center;
+    width: 750px;
+    margin: 0 auto;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    margin-bottom: 18px;
+}
+
+.container-top-spiderman span {
+    font-family: "Poppins-SemiBold";
+    font-size: 30px;
+    color: #FFFFFF;
+    margin: 76px 20px 20px 140px;
+}
+
+.container-top-spiderman p {
+    font-family: "Poppins-Regular";
+    font-size: 16px;
+    color: #FFFFFF;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    margin: 4px 40px 0px 140px;
+    width: 550px;
+}
+
+#spiderman {
+    margin: 47px 0px 0px 100px;
+}
+
+#orange-dots {
+    margin-left: 925px;
+    position: absolute;
+    z-index: -1;
+    margin-top: -20px;
+}
