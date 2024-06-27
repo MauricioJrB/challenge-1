@@ -1,0 +1,43 @@
+.container-list-games {
+    margin-top: 40px;
+}
+
+.list-games {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+#game-1 {
+    margin-left: 12px;
+}
+
+#game-2 {
+    margin-left: 2px;
+}
+
+#game-3 {
+    margin-right: 2px;
+}
+
+#game-4 {
+    margin-right: 49px;
+}
+
+.list-followers {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+#follower-1 {
+    margin-left: -30px;
+}
+
+#follower-3 {
+    margin-right: 7px;
+}
+
+#follower-4 {
+    margin-right: 5px;
+}
