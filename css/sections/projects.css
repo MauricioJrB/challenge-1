@@ -3,7 +3,6 @@
     padding-top: 146px;
     display: flex;
     flex-flow: column nowrap;
-    height: 800px;
     border: solid 2px red;
     margin: 5px;
     align-items: center;
@@ -25,7 +24,6 @@
     overflow-wrap: break-word;
     word-wrap: break-word;
     width: 490px;
-
 }
 
 .list-projects {
@@ -35,8 +33,7 @@
     justify-content: space-between;
     align-content: space-around;
     align-items: center;
-    padding: 110px;
+    padding: 126px;
     border: solid 2px blue;
     row-gap: 30px;
 }
-
