@@ -1,8 +1,8 @@
 .container-multiplataform {
-    margin-top: 150px;
+    margin-top: 100px;
     text-align: center;
     margin: 0 auto;
-    height: 800px;
+    height: 870px;
     display: flex;
     flex-flow: column;
     background-image: url("/images/multiplataform-backgroundpng.png");
@@ -11,16 +11,19 @@
     position: relative;
 }
 
-
 .container-multiplataform h1, h2 {
     font-family: "Poppins-Bold";
     font-size: 30px;
     color: #FFFFFF;
     margin: 0 auto;
 }
+.container-multiplataform h1 {
+    margin-top: 97px;
+}
 
 .container-multiplataform h2 {
-    margin-bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 25px;
 }
 
 .container-multiplataform span {
@@ -30,7 +33,7 @@
     overflow-wrap: break-word;
     word-wrap: break-word;
     margin: 0 auto;
-    margin-bottom: 60px;
+    margin-bottom: 50px;
     width: 850px;
 }
 
@@ -46,7 +49,7 @@
     justify-content: space-evenly;
     align-content: space-between;
     width: 1200px;
-    height: 600px;
+    height: 550px;
     box-sizing: border-box;
 }
 
@@ -54,6 +57,10 @@
     margin: 1px;
     padding: 60px;
     margin-left: -50px;
+}
+
+.list-multiplataform p {
+    margin-top: 25px;
 }
 
 #ar-design {
