@@ -1,10 +1,10 @@
-.container-top-spiderman {
+.container-spiderman {
     display: flex;
     flex-flow: column wrap;
     margin-top: 133px;
 }
 
-.container-top-spiderman h1, h2 {
+.container-spiderman h1, h2 {
     font-family: "Poppins-SemiBold";
     font-size: 35px;
     color: #FFFFFF;
@@ -16,14 +16,14 @@
     margin-bottom: 18px;
 }
 
-.container-top-spiderman span {
+.container-spiderman span {
     font-family: "Poppins-SemiBold";
     font-size: 30px;
     color: #FFFFFF;
     margin: 76px 20px 20px 140px;
 }
 
-.container-top-spiderman p {
+.container-spiderman p {
     font-family: "Poppins-Regular";
     font-size: 16px;
     color: #FFFFFF;
@@ -34,7 +34,7 @@
 }
 
 #spiderman {
-    margin: 47px 0px 0px 100px;
+    margin: 47px 0px 190px 100px;
 }
 
 #orange-dots {
