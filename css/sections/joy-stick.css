@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     margin-top: 96px;
-    padding-left: 129px;
+    padding-left: 150px;
 }
 
 #pharagraph-1 {
@@ -47,7 +47,7 @@
 #joy-stick {
     position: absolute;
     top: 0; 
-    margin: 0px 625px;
+    margin: 0px 585px;
     z-index: -1;
 }
 
