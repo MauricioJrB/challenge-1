@@ -1,0 +1,65 @@
+.container-multiplataform {
+    margin-top: 150px;
+    text-align: center;
+    margin: 0 auto;
+    height: 800px;
+    display: flex;
+    flex-flow: column;
+    background-image: url("/images/multiplataform-backgroundpng.png");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+
+.container-multiplataform h1, h2 {
+    font-family: "Poppins-Bold";
+    font-size: 30px;
+    color: #FFFFFF;
+    margin: 0 auto;
+}
+
+.container-multiplataform h2 {
+    margin-bottom: 50px;
+}
+
+.container-multiplataform span {
+    font-family: "Poppins-Regular";
+    font-size: 16px;
+    color: #FFFFFF;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    margin: 0 auto;
+    margin-bottom: 60px;
+    width: 850px;
+}
+
+.list-multiplataform {
+    font-family: "Poppins-Medium";
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin: 0 auto;
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-content: space-between;
+    width: 1200px;
+    height: 600px;
+    box-sizing: border-box;
+}
+
+.list-multiplataform li {
+    margin: 1px;
+    padding: 60px;
+    margin-left: -50px;
+}
+
+#ar-design {
+    padding-left: 398px;
+}
+
+#modeling-3d {
+    padding-right: 395px;
+}
