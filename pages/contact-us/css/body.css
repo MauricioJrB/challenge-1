@@ -39,7 +39,7 @@
 }
 
 body {
-    height: 100vh;
+    height: 100%;
     background: linear-gradient(to bottom, #2211E7, #383837);
     margin: 0;
 }
