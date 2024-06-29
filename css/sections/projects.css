@@ -3,7 +3,6 @@
     padding-top: 146px;
     display: flex;
     flex-flow: column nowrap;
-    border: solid 2px red;
     margin: 5px;
     align-items: center;
 }
@@ -23,10 +22,12 @@
     margin: 0 auto;
     overflow-wrap: break-word;
     word-wrap: break-word;
-    width: 490px;
+    width: 35%;
+    margin-top: 20px;
 }
 
 .list-projects {
+    margin-top: -30px;
     list-style: none;
     display: flex;
     flex-flow: row wrap;
@@ -34,6 +35,17 @@
     align-content: space-around;
     align-items: center;
     padding: 126px;
-    border: solid 2px blue;
     row-gap: 30px;
+}
+
+.container-projects a {
+    margin-top: -80px;
+    font-family: "Rubik-Medium";
+    font-size: 20px;
+    text-decoration: none;
+    color: #FFFFFF;
+    text-align: center;
+    background-color: #5444a0fa;
+    padding: 17px 29px;
+    border-radius: 8px;
 }
