@@ -33,6 +33,11 @@
     src: url(../fonts/Poppins/Poppins-SemiBold.ttf);
 }
 
+@font-face {
+    font-family: "Poppins-Light";
+    src: url(../fonts/Poppins/Poppins-Light.ttf);
+}
+
 body {
     background: linear-gradient(0deg, #39289F 80%, #422F9C 150%);
     margin: 0;
