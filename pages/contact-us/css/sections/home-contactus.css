@@ -1,0 +1,23 @@
+.container-home-contactus {
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    margin-top: 65px;
+}
+
+.container-home-contactus p {
+    font-family: "Poppins-Regular";
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.container-home-contactus span {
+    color: #E47500;
+}
+
+.container-home-contactus h1 {
+    font-family: "Poppins-SemiBold";
+    font-size: 33px;
+    color: #FFFFFF;
+    margin-bottom: 1px;
+}
