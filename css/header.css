@@ -13,6 +13,11 @@
     color: #FFFFFF;
 }
 
+#logo:hover {
+    color: #FA9021;
+}
+
+
 .menu {
     font-size: 16px;
     font-family: "Poppins-Regular";
@@ -26,6 +31,10 @@
     flex-flow: row wrap;
     text-decoration: none;
     margin-left: 92px;
+}
+
+#home:hover, #about-us:hover, #portfolio:hover, #news:hover{
+    color: #FA9021;
 }
 
 #btn-contact-us {
@@ -43,6 +52,10 @@
         -1px 1px 0px #000000,                    
         1px -1px 0px #000000,                  
         1px 0px 0px #000000;
+}
+
+#btn-contact-us:hover {
+    background-color: #dc7200e1;
 }
 
 #retangle-element {
