@@ -139,7 +139,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }, 2000);
 
         setTimeout(() => {
-            window.location.href = "sucess"; // fazer
+            window.location.href = "/pages/success-page/welcome.html";
         }, 3000);
     }); 
 });
