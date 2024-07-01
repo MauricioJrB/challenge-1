@@ -1,0 +1,130 @@
+.container-form {
+    background-color: #1C140F;
+    display: flex;
+    flex-flow: column;
+    margin-bottom: 40px;
+}
+
+.style-1 {
+    position: absolute;
+    margin-left: 390px;  
+}
+
+.style-2 {
+    position: absolute;
+    margin-top: 612px;
+}
+
+.say-hello {
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 85px;
+}
+
+.say-hello p {
+    font-family: "Poppins-Regular";
+    font-size: 30px;  
+    margin-bottom: 5px;  
+}
+
+.say-hello span {
+    font-family: "Poppins-Medium";
+    font-size: 13px;
+    color: #FFFFFF;
+}
+
+.formulary {
+    display: flex;
+    flex-flow: column;
+    margin: 0 auto;
+    width: 650px;
+    gap: .5rem;
+    margin-bottom: 50px;
+}
+
+label {
+    font-family: "Poppins-Medium";
+    font-size: 14px;
+    color: #4F4F4F; 
+    margin-bottom: 10px;
+}
+
+.group-name input,
+.email input {
+    height: 50px;
+}
+
+.group-name input,
+.email input, 
+.message-area textarea {
+    color: #FFFFFF;
+    background-color: #ffffff13;
+    border-radius: 8px;
+    border:1px solid #ffffff74;
+    outline: none;
+    font-family: "Poppins-Light";
+    font-size: 18px;
+}
+
+textarea:focus, input:focus {
+    background-color: #ffffff24;
+}
+
+.username {
+    display: flex;
+    justify-content: center;
+}
+
+.group-name {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.group-name input {
+   width: 315px;
+}
+
+.email {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.email input {
+    width: 100%;
+}
+
+.message-area {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.message-area textarea {
+    height: 228px;
+    width: 100%;
+}
+
+.btn-get-in-touch {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.btn-get-in-touch button {
+    font-family: "Poppins-Regular";
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: #DC7000;
+    padding: 15px 45px;
+    margin-top: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+}
+
+.btn-get-in-touch button:hover {
+    background-color: #dc72008f;
+}
+
+
