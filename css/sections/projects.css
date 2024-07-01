@@ -38,7 +38,11 @@
     row-gap: 30px;
 }
 
-.container-projects a {
+.list-projects li:hover {
+    transform: scale(1.1);
+}
+
+#see-all-2 {
     margin-top: -80px;
     font-family: "Rubik-Medium";
     font-size: 20px;
@@ -48,4 +52,8 @@
     background-color: #5444a0fa;
     padding: 17px 29px;
     border-radius: 8px;
+}
+
+#see-all-2:hover {
+    background-color: #382a7afa;
 }
