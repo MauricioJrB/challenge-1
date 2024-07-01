@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "Rubik-Bold";
+    src: url(/fonts/Rubik/Rubik-Bold.ttf);
+}
+
+body {
+    font-family: "Rubik-Bold";
+    background-color: rgba(221, 27, 27, 0.475);
+    
+}
+
+.container {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.homer {
+    margin-top: 140px;
+    text-align: center;
+    height: 500px;
+}
+
+.homer h1 {
+    margin-top: -5px;
+    color: red;
+    font-size: 80px;
+}
+
+.button  {
+    background-color: #c70a0a;
+    color: #FFFFFF;
+    border-radius: 5px;
+    font-size: 13px;
+    margin-left: 700px;
+    padding: 12px 31px;
+    text-decoration: none;
+    text-shadow: 
+        -1px -1px 0px #000000, 
+        -1px 1px 0px #000000,                    
+        1px -1px 0px #000000,                  
+        1px 0px 0px #000000;
+        transition: .3s ease;
+        cursor: pointer;
+}
+
+.button:hover {
+    background-color: #6c1919;
+}
