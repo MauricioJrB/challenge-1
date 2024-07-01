@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Rubik-Bold";
+    src: url(/fonts/Rubik/Rubik-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url(/fonts/Poppins/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url(/fonts/Poppins/Poppins-Bold.ttf);
+}
+
+body {
+    font-family: "Rubik-Bold";
+    background: linear-gradient(to bottom, #2211E7, #383837);
+    height: 100%;
+}
