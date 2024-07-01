@@ -1,0 +1,57 @@
+.container-header {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row nowrap;
+    margin-top: 36px;
+}
+
+#logo {
+    font-family: "Poppins-Bold";
+    font-size: 29px;
+    margin-left: 56px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+#logo:hover {
+    color: #FA9021;
+}
+
+.menu {
+    font-size: 16px;
+    font-family: "Poppins-Regular";
+    text-align: center;
+    display: flex;
+    list-style: none;
+}
+
+#home, #about-us, #portfolio, #news {
+    color: #FFFFFF;
+    flex-flow: row wrap;
+    text-decoration: none;
+    margin-left: 92px;
+}
+#home:hover, #about-us:hover, #portfolio:hover, #news:hover{
+    color: #FA9021;
+}
+
+#btn-contact-us {
+    background-color: #FA9021;
+    color: #FFFFFF;
+    border-radius: 5px;
+    font-size: 13px;
+    padding: 12px 31px;
+    text-decoration: none;
+    align-items: center;
+    margin-left: 37px;
+    margin-right: 66px;
+    text-shadow: 
+        -1px -1px 0px #000000, 
+        -1px 1px 0px #000000,                    
+        1px -1px 0px #000000,                  
+        1px 0px 0px #000000;
+}
+
+#btn-contact-us:hover {
+    background-color: #dc7200e1;
+}
