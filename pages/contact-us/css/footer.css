@@ -80,6 +80,7 @@
     flex-flow: column;
     margin-left: -40px;
 }
+
 .contact-us-footer h4 {
     font-family: "Poppins-Medium";
     font-size: 17px;
@@ -99,6 +100,15 @@
     align-content: space-around;
     align-items: center;
     margin-top: -150px;
+}
+
+.social-media li {
+    transition: .3s ease;
+    cursor: pointer;
+}
+
+.social-media li:hover {
+    transform: scale(1.5);
 }
 
 .baseboard p {

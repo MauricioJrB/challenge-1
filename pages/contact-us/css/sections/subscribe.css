@@ -64,7 +64,7 @@
     margin-left: 645px;
     width: 40%;
     position: relative;
-    margin-top: -120px;  
+    margin-top: -90px;  
 }
 
 .form input {
@@ -97,4 +97,8 @@
     padding: 8px 22px;
     border-radius: 8px;
     margin: 8px;
+}
+
+.form a:hover {
+    background-color: #dc7200be;
 }
