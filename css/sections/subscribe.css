@@ -87,7 +87,7 @@
     padding-right: 80px;
 }
 
-.form a {
+#redirect {
     font-family: "Poppins-Regular";
     color: #FFFFFF;
     background-color: #DC7000;
@@ -97,4 +97,14 @@
     padding: 8px 22px;
     border-radius: 8px;
     margin: 8px;
+    cursor: not-allowed;
+    border: none;
+}
+
+#redirect.enabled {
+    cursor: pointer;
+}
+
+#redirect.enabled:hover {
+    background-color: #dc72008f;
 }
