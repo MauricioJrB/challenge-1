@@ -101,6 +101,15 @@
     margin-top: -150px;
 }
 
+.social-media li {
+    transition: .3s ease;
+    cursor: pointer;
+}
+
+.social-media li:hover {
+    transform: scale(1.5);
+}
+
 .baseboard p {
     font-family: "Poppins-Regular";
     font-size: 13px;

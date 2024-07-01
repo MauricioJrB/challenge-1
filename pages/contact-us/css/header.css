@@ -31,6 +31,7 @@
     text-decoration: none;
     margin-left: 92px;
 }
+
 #home:hover, #about-us:hover, #portfolio:hover, #news:hover{
     color: #FA9021;
 }
